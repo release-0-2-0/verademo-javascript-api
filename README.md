@@ -1,7 +1,7 @@
 <img src="https://help1
 # Verademo API  11
-  1
-## What is this about  
+  11
+## What is this about  1
 Verademo API is very simple API for the Verademo Java Application that can be found here: [https://github.com/veracode/verademo-javascript-api](https://github.com/veracode/verademo-javascript-api). It allows you to use almost the same functionality as the web application, only as an API.   
 It's used as a demo application to run static code analysis, software composition analysis and dynamic API scanning. There will be findings for all differnt type of scanning technologies.  
 Static Findings  
