@@ -11,7 +11,7 @@ const adminRoutes = require("./routes/admin.routes");
 
 app.use(bodyParser.json());
 
-/** Swagger Initialization - START 1*/
+/** Swagger Initialization - START 11*/
 const swaggerOption = {
   swaggerDefinition: (swaggerJsdoc.Options = {
     openapi: "3.0.0",
