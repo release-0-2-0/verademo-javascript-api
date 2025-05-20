@@ -1,0 +1,12 @@
+#  .github/workflows/custom-trigger.yml
+name: Custom Trigger Workflow
+
+on:
+  repository_dispatch:
+    types: [dev-test]
+
+jobs:
+  run:
+    runs-on: self-hosted
+    steps:
+      - run: echo "Repository dispatch event triggered!"
